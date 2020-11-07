@@ -6,7 +6,6 @@ import PiePlot from "./components/PiePlot";
 import BarPlot from "./components/BarPlot";
 import RaderPlot from "./components/RaderPlot";
 import BubblePlot from "./components/BubblePlot";
-import MaterialUI from "./components/MaterialUI ";
 
 function App() {
     return (
@@ -16,7 +15,6 @@ function App() {
             <BarPlot />
             <RaderPlot />
             <BubblePlot /> */}
-
             <MaterialUI />
         </div>
     );
